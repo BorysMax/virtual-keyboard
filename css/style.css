@@ -49,6 +49,7 @@ body {
 }
 
 .keyboard__key {
+  background-color: white;
   border-radius: 3px;
   height: 40px;
   width: 40px;
@@ -68,4 +69,8 @@ body {
 
 .key-wide-r {
   width: 84px;
+}
+
+.pressed {
+  background-color: bisque;
 }
